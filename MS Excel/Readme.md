@@ -1,2 +1,2 @@
 Exercises here were done from a FreeCodeCamp Course attached
-[Here](https://www.youtube.com/watch?v=Vl0H-qTclOg)
+[Here](https://youtu.be/Vl0H-qTclOg?si=JV7BXXPaBICTUbD7)
