@@ -1,2 +1,1 @@
-Exercises here were done from a FreeCodeCamp Course attached
-[Here](https://youtu.be/Vl0H-qTclOg?si=NFMHkz2rWg6Pc0zV)
+All the Excel works that I have done will be pushed here.
